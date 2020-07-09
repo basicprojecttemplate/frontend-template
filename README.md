@@ -1,2 +1,2 @@
-# reactsimpleui
-react based simple ui
+# frontend-template
+Simple React Redux based Frontend Template
